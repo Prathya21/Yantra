@@ -1,2 +1,0 @@
-# Yantra
-WIEnfluence
